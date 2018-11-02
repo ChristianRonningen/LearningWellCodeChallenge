@@ -1,3 +1,3 @@
 # LearningWellCodeChallenge
 
-A description of this package.
+Run LearningWellCodeChallenge in terminal or unix enviroment
